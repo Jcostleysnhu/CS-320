@@ -1,1 +1,3 @@
 # CS-320
+
+To ensure that my code is functional and secure, I can implement thorough testing methods, such as unit tests (as in this project), integration tests, and security audits, to look for potential issues. Interpreting user needs involves talking with users through conversation, and other feedback gathering methods to gather detailed requirements, which can then be translated into functional specifications. When designing software, it's important to start with a clear understanding of the problem the user would like to solve, create detailed design documents, use modular and scalable code, and follow best practices for coding and documentation to ensure maintainability.
